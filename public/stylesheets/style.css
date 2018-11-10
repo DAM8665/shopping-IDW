@@ -1,8 +1,37 @@
-body {
-  padding: 50px;
-  font: 14px "Lucida Grande", Helvetica, Arial, sans-serif;
-}
 
-a {
-  color: #00B7FF;
-}
+    h1 {
+      height: 2cm;
+      color:blue;
+      text-align: center;
+      padding-top: 0.5cm;
+      background-color: rgb(142, 193, 243);
+  }
+  form{
+
+      margin-left: auto;
+      margin-right: auto;
+      width: 100%;
+  }
+  table, td, th {
+  border: 1px solid black;
+  }
+  table {
+  border-collapse: collapse;
+  width: 100%;
+  }
+  th {
+  width: auto;
+  height: 50px;
+  text-align: center
+  }
+  td {
+  width: auto;    
+  height: 50px;
+  text-align: center
+  }
+  input{
+      align-content: center;
+      text-align: center;
+      color: brown;
+  }
+  
